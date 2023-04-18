@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @danielcdmconsultores
 - 📫 How to reach me daniel@cdm.guru
+- LinkedIn https://www.linkedin.com/in/danielsilva73/
 
 <!---
 danielcdmconsultores/danielcdmconsultores is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
