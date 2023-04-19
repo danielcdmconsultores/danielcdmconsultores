@@ -15,5 +15,8 @@ You can click the Preview link to take a look at your changes.
 📼 A Blast From the Past 📼
 
 Basic Beginnings: Remember when BASIC ruled the world? Revisit the golden age of programming with my early projects in this cherished language.
-C-rious 80s: A tribute to the era when C was king, and I was but a young code-slinger honing my skills.
-Assembler Adventures: Delve into the depths of low-level programming, where I tinkered with bits and bytes to create masterpieces.
+
++ C-rious 80s: A tribute to the era when C was king, and I was but a young code-slinger honing my skills.
++ Assembler Adventures: Delve into the depths of low-level programming, where I tinkered with bits and bytes to create masterpieces.
++ Zx spectrum: Always in my memories Sir Sinclair
++ From 8 bits to the cloud computing world, a quantum leap QL ;-)
