@@ -21,6 +21,9 @@ Basic Beginnings: Remember when BASIC ruled the world? Revisit the golden age of
 + From 8 bits to the cloud computing world, a quantum leap QL ;-)
 
 From:
+
 ![image](https://user-images.githubusercontent.com/31433247/235291552-e4dd4dde-8b61-4521-a3bc-9a89db985a34.png)
+
 To:
+
 ![image](https://user-images.githubusercontent.com/31433247/235291621-b5ebf1f5-3f45-4d22-9c03-0567c50651bc.png)
