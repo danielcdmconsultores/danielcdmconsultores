@@ -1,13 +1,12 @@
+👋 Hey everyone, I'm  Daniel Peña
+![image](https://user-images.githubusercontent.com/31433247/235291475-3930f790-1a60-4152-9c81-e104d801077d.png)
+
+
 Welcome to the realm of @danielcdmconsultores, a seasoned consultant with over three decades of code-crafting experience. 
 
 - 📫 How to reach me daniel@cdm.guru
 - 🔗 LinkedIn https://www.linkedin.com/in/danielsilva73/
 
-
-<!---
-danielcdmconsultores/danielcdmconsultores is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 <a href="https://app.daily.dev/danielmega"><img src="https://api.daily.dev/devcards/2edb2edb176a4bafaf815213b2a56cdb.png?r=3b4" width="400" alt="Daniel's Dev Card"/></a>
 
@@ -20,3 +19,6 @@ Basic Beginnings: Remember when BASIC ruled the world? Revisit the golden age of
 + Assembler Adventures: Delve into the depths of low-level programming, where I tinkered with bits and bytes to create masterpieces.
 + Zx spectrum: Always in my memories Sir Sinclair
 + From 8 bits to the cloud computing world, a quantum leap QL ;-)
+
+
+![image](https://user-images.githubusercontent.com/31433247/235291552-e4dd4dde-8b61-4521-a3bc-9a89db985a34.png)
